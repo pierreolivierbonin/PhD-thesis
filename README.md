@@ -1,2 +1,2 @@
 # PreviousWork
-Work I have done during years of doctoral research at the University of Toronto.
+This is the doctoral thesis I have produced using Stata, Qualtrics, and Excel, as part of the requirements for a doctoral degree in political science at the University of Toronto.
