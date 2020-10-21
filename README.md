@@ -1,4 +1,4 @@
-# PreviousWork
+# Summary of the Data
 This is the doctoral thesis I have produced using Stata, Qualtrics, and Excel, as part of the requirements for a doctoral degree in political science at the University of Toronto.
 
 The datasets are original and come from two surveys I have designed and conducted in 2017. 
